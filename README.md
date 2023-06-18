@@ -1,4 +1,6 @@
 # Queensland_dataset
 
-Example of link to the dataset
-https://geoscience.data.qld.gov.au/data/dataset/?ext_date_facet=&ext_search_all=Durham+Ranch&ext_advanced_operator=OR&ext_search_all=347&ext_advanced_operator=OR&type=report&sort=score+desc%2C+metadata_modified+desc&ext_bbox=&ext_prev_extent=
+This is a quick project for my colleagues. The goal is to have the formation tops and their depths on all Durham Ranch wells. The data is from the public geoscience dataset from Queensland, Australia.
+
+1. The first step is to webscrape all links of the PDF of Well Completion Report
+2. The second step is to extract the data out.
